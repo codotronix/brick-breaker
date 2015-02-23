@@ -1,0 +1,168 @@
+#Scoreboard {
+    width:520px;
+    height:80px;
+    background-color:steelblue;
+    text-align:center;
+    color:orange;
+    font-size:50px;
+    font-weight:bold;
+}
+
+#arena {
+    position:relative;
+    background-color:cornflowerblue;
+    width:520px;
+    height:500px;
+    overflow:hidden;
+}
+
+
+#player {
+    position:absolute;
+    background-color: yellow;
+    height:40px;
+    width:25px;
+}
+
+#bullet {
+    position:absolute;
+    height:10px; 
+    width:7px;
+    background-color:brown;
+    display:none;
+}
+
+.brickSize {
+    position:absolute;
+    height: 40px;
+    width: 40px;
+}
+
+.backColor1 {
+    background-color:green;
+}
+
+.backColor2 {
+    background-color:lightcoral;
+}
+
+.backColor3 {
+    background-color:darkblue;
+}
+
+.backColor4 {
+    background-color:red;
+}
+
+.backColor5 {
+    background-color:blue;
+}
+
+#brick1 {
+    top:40px;
+    left:80px;
+}
+
+#brick2 {
+    top:40px;
+    left:160px;
+}
+
+#brick3 {
+    top:40px;
+    left:240px;
+}
+
+#brick4 {
+    top:40px;
+    left:320px;
+}
+
+#brick5 {
+    top:40px;
+    left:400px;
+}
+
+#brick6 {
+    top:120px;
+    left:80px;
+}
+
+#brick7 {
+    top:120px;
+    left:160px;
+}
+
+#brick8 {
+    top:120px;
+    left:240px;
+}
+
+#brick9 {
+    top:120px;
+    left:320px;
+}
+
+#brick10 {
+    top:120px;
+    left:400px;
+}
+
+#brick11 {
+    top:200px;
+    left:80px;
+}
+
+#brick12 {
+    top:200px;
+    left:160px;
+}
+
+#brick13 {
+    top:200px;
+    left:240px;
+}
+
+#brick14 {
+    top:200px;
+    left:320px;
+}
+
+#brick15 {
+    top:200px;
+    left:400px;
+}
+
+#brick16 {
+    top:280px;
+    left:80px;
+}
+
+#brick17 {
+    top:280px;
+    left:160px;
+}
+
+#brick18 {
+    top:280px;
+    left:240px;
+}
+
+#brick19 {
+    top:280px;
+    left:320px;
+}
+
+#brick20 {
+    top:280px;
+    left:400px;
+}
+
+
+#flyingPoint {
+    position:absolute;
+    color:palegoldenrod;
+    font-size:20px;
+    font-style:italic;
+    display:none;
+}
